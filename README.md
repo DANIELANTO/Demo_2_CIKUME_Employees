@@ -1,5 +1,5 @@
 # Demo_2_CIKUME_EmployeesCRUD_Angular
-Employees Crud using Angular and Angular Material.
+Employees Crud using Angular and Angular Material (no responsive design).
 
 ## Check the demo here:
 https://stoic-montalcini-84e94c.netlify.app
