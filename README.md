@@ -1,4 +1,4 @@
-# Demo2CIKUME-EmployeesCRUDinAngular
+# Demo_2_CIKUME_EmployeesCRUD_Angular
 Employees Crud using Angular and Angular Material.
 
 ## Check the demo here:
